@@ -16,7 +16,6 @@ with all the knowledge you have - make a new discovery in science
 <details>
   <summary>Click to expand</summary>
 
-```text
 Okay, the user wants me to make a new scientific discovery using all my knowledge. Hmm, where do I even start? Let me think. First, I need to pick a field that's both interesting and has enough unknowns. Maybe quantum computing? Or something in biology? Wait, combining fields might be better for cross-disciplinary discoveries.
 
 Quantum biology is a thing now, right? Like how birds navigate using quantum effects in their eyes. Maybe there's something there. Or perhaps material science? New materials can lead to breakthroughs. Let me recall recent advancements. Graphene, metamaterials, topological insulators... Oh, topological materials are a big deal in condensed matter physics.
@@ -88,7 +87,7 @@ Alternatively, in spintronics: a topological material that allows for efficient 
 Yes, this is plausible. If a topological insulator is engineered to have high spin-orbit coupling and integrated into a spintronic device, it could enhance performance. The discovery would be identifying the right material and demonstrating this effect.
 
 After considering various options, I think a solid discovery would be a material that combines topological insulator properties with high-temperature superconductivity. Let's structure it as a theoretical prediction followed by experimental validation. The key innovation is the coexistence of these two phases, enabling Majorana fermions at higher temperatures, which is crucial for quantum computing.
-```
+
 
 </details>
 
